@@ -2,7 +2,7 @@
 
 ---
 
-This is a CLI based Journal with MYSQL intergration
+This is a CLI based Journal with SQLite intergration
 
 _Version 1.0_
 
